@@ -1,11 +1,20 @@
 .description{
 color: #ebbefa;
+margin:10px;
+font-family: "Courgette", cursive;
+font-weight: 400;
+font-style: normal;
 }
 
 .header{
 color: #a999f2;
+font-family: "Great Vibes", cursive;
+font-weight: 400;
+font-style: normal;
+text-align:center; 
+margin:15px;
 }
 
 .background{
-  background-color: #fc95be
+  background-color: #fc95be;
 }
